@@ -1,0 +1,16 @@
+body{
+  background-color: background-color: #ef5734;
+background-image: linear-gradient(315deg, #ef5734 0%, #ffcc2f 74%);;
+  padding-left: 100px;
+  padding-right: 100px;
+  /* padding-bottom: 400px; */
+}
+#c{
+  text-align:center;
+}
+h2{
+  text-align: center;
+}
+#l{
+  text-align: center;
+}
